@@ -21,12 +21,6 @@ jobs:
           node-version: 18
           cache: 'yarn'
 
-      - name: Install yarn
-        run: npm install -g yarn
-
-      - name: Verify yarn installation
-        run: yarn --version
-
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
