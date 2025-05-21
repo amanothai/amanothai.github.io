@@ -45,6 +45,5 @@
   "engines": {
     "node": ">=18.0"
   },
-  "description": "Docusaurus public documentation page",
-  "packageManager": "pnpm@10.11.0"
+  "description": "Docusaurus public documentation page"
 }
