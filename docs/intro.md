@@ -10,3 +10,6 @@ At our company, you'll build real products, tackle meaningful challenges, and gr
 Explore our open roles below and take the next step in your engineering journey with us.
 
 ## Open position
+[Junior Software Engineer](./careers/software-engineer-junior-level.md)
+
+[Middle Software Engineer](./careers/software-engineer-middle-level.md)
