@@ -62,13 +62,13 @@ We are looking for a skilled and motivated **Middle-Level Software Engineer** to
 - **Flexible Work Day** — We trust you to manage your time, with options for hybrid and remote work.
 - **Learning & Development Budget** — Yearly allowance for courses, certifications, books, or conferences of your choice.
 - **Health & Wellness Support** — Comprehensive medical insurance, and mental wellness support.
-- **Top-tier Equipment** — Get the latest hardware and access to premium development tools.
+- **Top-tier Equipment** — Get the latest MacBook or equivalent hardware and access to premium development tools.
 - **Collaborative Culture** — Work in a **supportive, inclusive** environment with regular feedback, mentoring, and career planning.
 
 
 # How to Apply
 If you’re excited to join our team and believe you’re a great fit, please send your expect salary, resume and any relevant portfolio or GitHub links to:
 
-**developer@amanothai.co.th**
+**developer-hiring@amanothai.co.th**
 
 Please include the job title in the subject line, e.g., “Application – Middle Software Engineer (Your full name)”.
