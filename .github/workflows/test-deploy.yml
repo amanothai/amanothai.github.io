@@ -18,8 +18,6 @@ jobs:
           fetch-depth: 0
       - name: Setup pnpm
         uses: pnpm/action-setup@v4 # docs https://pnpm.io/continuous-integration#github-actions
-        with:
-            version: 10
 
       - uses: actions/setup-node@v4
         with:
