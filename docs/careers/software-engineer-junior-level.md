@@ -30,7 +30,7 @@ We are looking for a **Junior Software Engineer** who is enthusiastic about tech
 ## Requirements
 
 - 0–2 years of experience in software development (internships or personal projects count!).
-- Familiarity with one or more programming languages (e.g., JavaScript/TypeScript, Python, C#).
+- Familiarity with one or more programming languages (e.g., JavaScript/TypeScript, Python, C#) or Experience with **React, Next.js, Node.js, .NET, etc.**.
 - Basic understanding of web technologies, databases, and APIs.
 - Eagerness to learn and grow in a fast-paced environment.
 - Mentorship and learning via regular pair programming with experienced engineers.
