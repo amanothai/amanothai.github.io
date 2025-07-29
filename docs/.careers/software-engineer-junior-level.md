@@ -2,8 +2,8 @@
 # Junior Software Engineer
 
 **Location**: Paradise Place (BTS.Suan Luang Rama 9)
-**Job Type**: Full-time  
-**Experience**: 0–2 years  
+**Job Type**: Full-time
+**Experience**: 0–2 years
 **Team**: Full-Stack
 
 ---

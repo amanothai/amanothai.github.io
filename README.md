@@ -1,11 +1,41 @@
-# Website
+# Amano Document Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+## Requirements
 
-### Installation
+[Node.js v.22.15.0 (LTS)](https://nodejs.org/en)
+
+[NVM (Node Version Manager)](https://nodejs.org/en/download) - Optional
+
+## Installation
+### Use Make (require NVM)
+This command will set everything up and ready.
+```bash
+make setup
+```
+
+Then
 
 ```bash
-$ pnpm
+make dev
+```
+To start the dev environment
+
+### Use NVM
+
+```bash
+nvm install 22.15.0
+```
+
+Then
+
+```bash
+nvm use 22.15.0
+```
+
+### Use PNPM
+
+```bash
+$ pnpm i
 ```
 
 ### Local Development
@@ -23,19 +53,3 @@ $ pnpm build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```bash
-$ USE_SSH=true pnpm deploy
-```
-
-Not using SSH:
-
-```bash
-$ GIT_USER=<Your GitHub username> pnpm deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
