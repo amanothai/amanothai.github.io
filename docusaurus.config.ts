@@ -41,7 +41,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/amanothai/docusaurus-public-page/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/amanothai/amanothai.github.io/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
