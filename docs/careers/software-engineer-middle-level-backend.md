@@ -70,8 +70,18 @@ We are seeking a **Middle-Level Software Engineer** with a **primary focus on C#
 
 
 # How to Apply
-If you’re excited to join our team and believe you’re a great fit, please send your expect salary, resume and any relevant portfolio or GitHub links to:
 
-**developer-hiring@amanothai.co.th**
+If you’re excited to join our team and believe you’re a great fit, apply to this position with this step.
 
-Please include the job title in the subject line, e.g., “Application – Middle Software Engineer (Your full name)”.
+1. **Send an Email**  
+  Send your **resume/CV**, **expected salary**, and any relevant **portfolio or GitHub links** to:  
+  **developer-hiring@amanothai.co.th**  
+  Please include the job title in the subject line, e.g.,
+  **"Application – Middle Software Engineer (Your Full Name)"**
+
+2. **Submit the Google Form**  
+  Fill out the official application form here: [Submit your application](https://forms.gle/wH5hE5yctJewFEah9)
+
+Please note that your application will only be considered **complete** once you do **both steps**.
+
+Both steps are required to ensure your application is reviewed by our hiring team.
