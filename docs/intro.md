@@ -18,3 +18,5 @@ Explore our open roles below and take the next step in your engineering journey 
 <!-- [Middle Software Engineer](./careers/software-engineer-middle-level.md) -->
 
 - [Middle Software Engineer (C# Backend Focus)](./careers/software-engineer-middle-level-backend.md)
+
+- [QA Software Tester](./careers/qa-tester-middle-level.md)
