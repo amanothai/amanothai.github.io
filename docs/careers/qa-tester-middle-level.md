@@ -21,6 +21,7 @@ You will work closely with software engineers, product owners, and designers to 
 - Perform basic API testing using tools like Postman or Swagger.
 - Work with staging/production logs to identify issues.
 - Support UAT preparation and test execution.
+- Additional duties as directed by the supervisor or management.
 
 ---
 
