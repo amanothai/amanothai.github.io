@@ -47,3 +47,5 @@ website/i18n/**/*
 website/rspack-tracing.json
 website/bundler-cpu-profile.json
 website/profile.json.gz
+
+*.pdf
